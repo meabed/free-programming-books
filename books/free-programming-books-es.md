@@ -54,6 +54,7 @@
 
 * [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
+* [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design](https://github.com/ddd-espanol/asombroso-ddd)
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
 * [Gitbook - Libros útiles en español](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--) (Github)
@@ -128,7 +129,7 @@
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (PDF) (descarga directa)
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
@@ -161,11 +162,12 @@
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
+* [Pro Git v2](http://git-scm.com/book/es/v2)
 
 
 ### Go
 
-* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
 * [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
@@ -283,6 +285,7 @@
 
 ### PHP
 
+* [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (Youtube playlist)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
@@ -313,7 +316,7 @@
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
-* [Inmersión en Python](http://es.diveintopython.net/toc.html) (HTML)
+* [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
